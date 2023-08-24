@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thomasver06
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Python And GDscript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in SoftwareDev
+- 🌱 I’m currently learning as much as I can
+- 💞️ I’m looking to collaborate on all sorts of things
+- 📫 How to reach me thomasverboven06@gmail.com
 
 <!---
 Thomasver06/Thomasver06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
